@@ -3,4 +3,3 @@
 Term Project:
 
 Arda Atasoy 20180808045
-Egemen Gündüz 20180808073
